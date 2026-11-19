@@ -1,5 +1,7 @@
 # Platform Adventure Game
 
+**Live demo:** https://spiderman5269.github.io/Platform-Adventure/
+
 Platform Adventure is a 2D side-scrolling platform game built with p5.js. In this game, you navigate through dynamic levels filled with challenging obstacles, collectable items, and a variety of enemies. Advance through each level by reaching the flagpole while avoiding hazards and defeating foes.
 
 ## Table of Contents
